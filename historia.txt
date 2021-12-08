@@ -1,5 +1,5 @@
-actualizacion de la historia
+Esta es la historia de Freddy Vega
 
-estoy tratando de aprender git
+Freddy Vega tiene 32 años y nació en Colombia
 
-----aqui se trabajan las actualizaciones
+Mañana nos enfocaremos en su vida laboral
